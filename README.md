@@ -106,3 +106,6 @@ The **Weather-Based Outfit Recommender** is a functional application that integr
 This project is a **basis for additional improvements**, such as **machine learning algorithms for improved forecasting, geolocation weather retrieval, and improved trend analysis**. 
 
  <img width="848" alt="Screenshot 2025-02-28 at 3 54 16 PM" src="https://github.com/user-attachments/assets/053ac565-9624-44ab-9007-1c2e7b9fcafc" />
+
+ ##Link for youtube video explaining the code and functions##
+ https://youtu.be/EnMnsAU1QYg
